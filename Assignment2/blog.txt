@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Nexus Creative | Blog</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <nav>
+                <div class="logo">NEXUS.</div>
+                <ul class="nav-links">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="services.html">Services</a></li>
+                    <li><a href="portfolio.html">Work</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section class="section container">
+        <h1 class="text-center">Latest News</h1>
+        <div style="max-width: 800px; margin: 40px auto;">
+            <div class="blog-post">
+                <span class="blog-date">Oct 12, 2023</span>
+                <h2>The Future of Web Design</h2>
+                <p style="color: var(--text-gray);">Exploring the trends that will define the next decade of the web.</p>
+                <a href="blog-single.html" class="btn-outline" style="margin-top: 10px; display:inline-block;">Read More</a>
+            </div>
+            <div class="blog-post">
+                <span class="blog-date">Sep 05, 2023</span>
+                <h2>Why CSS Grid Matters</h2>
+                <p style="color: var(--text-gray);">A deep dive into modern layout techniques and why you should use them.</p>
+                <a href="blog-single.html" class="btn-outline" style="margin-top: 10px; display:inline-block;">Read More</a>
+            </div>
+            <div class="blog-post">
+                <span class="blog-date">Aug 20, 2023</span>
+                <h2>Understanding JavaScript ES6</h2>
+                <p style="color: var(--text-gray);">Learn the modern features that make JavaScript more powerful.</p>
+                <a href="blog-single.html" class="btn-outline" style="margin-top: 10px; display:inline-block;">Read More</a>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Nexus Creative. All rights reserved.</p>
+    </footer>
+</body>
+</html>

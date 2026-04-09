@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Nexus Creative | Home</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <nav>
+                <div class="logo">NEXUS.</div>
+                <ul class="nav-links">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="services.html">Services</a></li>
+                    <li><a href="portfolio.html">Work</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section class="hero">
+        <div class="container">
+            <h1>We Build Digital Experiences</h1>
+            <p>Transforming ideas into reality through design and code.</p>
+            <a href="portfolio.html" class="btn">View Our Work</a>
+        </div>
+    </section>
+
+    <section class="section container">
+        <h2 class="text-center">Why Choose Us</h2>
+        <div class="grid-3" style="margin-top: 40px;">
+            <div class="card">
+                <h3>Modern Design</h3>
+                <p>We create visually stunning interfaces that captivate your audience.</p>
+            </div>
+            <div class="card">
+                <h3>Clean Code</h3>
+                <p>Optimized, fast, and scalable code for the best performance.</p>
+            </div>
+            <div class="card">
+                <h3>24/7 Support</h3>
+                <p>We are always here to help you maintain your digital presence.</p>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Nexus Creative. All rights reserved.</p>
+    </footer>
+</body>
+</html>

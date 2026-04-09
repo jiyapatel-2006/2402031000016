@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Nexus Creative | Contact</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <nav>
+                <div class="logo">NEXUS.</div>
+                <ul class="nav-links">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="services.html">Services</a></li>
+                    <li><a href="portfolio.html">Work</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section class="section container">
+        <h1 class="text-center">Get In Touch</h1>
+        <p class="text-center" style="color: var(--text-gray); margin-bottom: 40px;">Have a project in mind? Let's talk.</p>
+        
+        <form>
+            <input type="text" placeholder="Your Name" required>
+            <input type="email" placeholder="Your Email" required>
+            <input type="text" placeholder="Subject">
+            <textarea rows="6" placeholder="Your Message" required></textarea>
+            <button type="submit" class="btn">Send Message</button>
+        </form>
+
+        <div class="grid-3" style="margin-top: 60px;">
+            <div class="card">
+                <h3>Email</h3>
+                <p>hello@nexuscreative.com</p>
+            </div>
+            <div class="card">
+                <h3>Phone</h3>
+                <p>+1 (555) 123-4567</p>
+            </div>
+            <div class="card">
+                <h3>Address</h3>
+                <p>123 Digital Ave, Tech City</p>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Nexus Creative. All rights reserved.</p>
+    </footer>
+</body>
+</html>

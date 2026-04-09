@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Nexus Creative | Services</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <nav>
+                <div class="logo">NEXUS.</div>
+                <ul class="nav-links">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="services.html">Services</a></li>
+                    <li><a href="portfolio.html">Work</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section class="section container">
+        <h1 class="text-center">Our Services</h1>
+        <div class="grid-3" style="margin-top: 50px;">
+            <div class="card">
+                <h3>Web Design</h3>
+                <p>UI/UX design that focuses on user retention and conversion.</p>
+            </div>
+            <div class="card">
+                <h3>Development</h3>
+                <p>Full-stack development using React, Node.js, and Python.</p>
+            </div>
+            <div class="card">
+                <h3>SEO Optimization</h3>
+                <p>Ranking your website higher on search engines to drive traffic.</p>
+            </div>
+            <div class="card">
+                <h3>Mobile Apps</h3>
+                <p>Native and cross-platform mobile application development.</p>
+            </div>
+            <div class="card">
+                <h3>Branding</h3>
+                <p>Logo design, color palettes, and brand identity guidelines.</p>
+            </div>
+            <div class="card">
+                <h3>Consulting</h3>
+                <p>Strategic advice to help your business grow digitally.</p>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Nexus Creative. All rights reserved.</p>
+   

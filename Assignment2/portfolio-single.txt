@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Nexus Creative | Project Detail</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <nav>
+                <div class="logo">NEXUS.</div>
+                <ul class="nav-links">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="services.html">Services</a></li>
+                    <li><a href="portfolio.html">Work</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section class="section container">
+        <a href="portfolio.html" class="btn-outline" style="margin-bottom: 20px; display:inline-block;">← Back to Portfolio</a>
+        <div class="grid-3" style="align-items: center;">
+            <div>
+                <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=600&q=80" alt="Project Detail" style="border-radius: 10px;">
+            </div>
+            <div>
+                <h1>Project Alpha</h1>
+                <p style="color: var(--text-gray); margin: 20px 0;">
+                    This project involved a complete overhaul of the client's digital presence. 
+                    We focused on speed, accessibility, and modern aesthetics.
+                </p>
+                <ul style="margin-bottom: 20px;">
+                    <li>• Client: TechCorp</li>
+                    <li>• Role: Full Stack</li>
+                    <li>• Year: 2023</li>
+                </ul>
+                <a href="contact.html" class="btn">Contact Client</a>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Nexus Creative. All rights reserved.</p>
+    </footer>
+</body>
+</html>
